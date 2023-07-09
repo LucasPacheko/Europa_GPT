@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorldMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="769a3093-13cc-4e3f-b21c-eaf18a1cebbe">
+  <Game>Assembly-CSharp</Game>
+  <GameVersion>0.2.4177.19615</GameVersion>
+  <DateTime>133332342865847003</DateTime>
+  <DaysPast>33</DaysPast>
+  <WorldName>Europa2</WorldName>
+  <IsOnAwayMission>false</IsOnAwayMission>
+  <WorldTravelCount>0</WorldTravelCount>
+  <WorldFileName>Europa-Geballion</WorldFileName>
+  <WorkShopFileHandle>0</WorkShopFileHandle>
+  <NumberOfRooms>12</NumberOfRooms>
+  <NumberOfPipeNetworks>26</NumberOfPipeNetworks>
+  <NumberOfCableNetworks>11</NumberOfCableNetworks>
+  <NumberOfThings>2589</NumberOfThings>
+  <NumberOfAtmospheres>195</NumberOfAtmospheres>
+  <NumberOfAsteriods>0</NumberOfAsteriods>
+</WorldMetaData>
