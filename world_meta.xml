@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WorldMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="769a3093-13cc-4e3f-b21c-eaf18a1cebbe">
   <Game>Assembly-CSharp</Game>
-  <GameVersion>0.2.4183.19623</GameVersion>
-  <DateTime>133334255602731133</DateTime>
+  <GameVersion>0.2.4187.19631</GameVersion>
+  <DateTime>133334648174844857</DateTime>
   <DaysPast>43</DaysPast>
   <WorldName>Europa2</WorldName>
   <IsOnAwayMission>false</IsOnAwayMission>
@@ -11,8 +11,8 @@
   <WorkShopFileHandle>0</WorkShopFileHandle>
   <NumberOfRooms>14</NumberOfRooms>
   <NumberOfPipeNetworks>28</NumberOfPipeNetworks>
-  <NumberOfCableNetworks>17</NumberOfCableNetworks>
-  <NumberOfThings>3675</NumberOfThings>
-  <NumberOfAtmospheres>348</NumberOfAtmospheres>
+  <NumberOfCableNetworks>15</NumberOfCableNetworks>
+  <NumberOfThings>3676</NumberOfThings>
+  <NumberOfAtmospheres>347</NumberOfAtmospheres>
   <NumberOfAsteriods>0</NumberOfAsteriods>
 </WorldMetaData>
