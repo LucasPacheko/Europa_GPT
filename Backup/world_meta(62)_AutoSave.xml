@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorldMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="769a3093-13cc-4e3f-b21c-eaf18a1cebbe">
+  <Game>Assembly-CSharp</Game>
+  <GameVersion>0.2.4188.19632</GameVersion>
+  <DateTime>133335094966821203</DateTime>
+  <DaysPast>59</DaysPast>
+  <WorldName>Europa2</WorldName>
+  <IsOnAwayMission>false</IsOnAwayMission>
+  <WorldTravelCount>0</WorldTravelCount>
+  <WorldFileName>Europa_GPT</WorldFileName>
+  <WorkShopFileHandle>0</WorkShopFileHandle>
+  <NumberOfRooms>20</NumberOfRooms>
+  <NumberOfPipeNetworks>44</NumberOfPipeNetworks>
+  <NumberOfCableNetworks>19</NumberOfCableNetworks>
+  <NumberOfThings>5209</NumberOfThings>
+  <NumberOfAtmospheres>392</NumberOfAtmospheres>
+  <NumberOfAsteriods>0</NumberOfAsteriods>
+</WorldMetaData>
