@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WorldMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="769a3093-13cc-4e3f-b21c-eaf18a1cebbe">
   <Game>Assembly-CSharp</Game>
-  <GameVersion>0.2.4156.19551</GameVersion>
-  <DateTime>133328625954560333</DateTime>
-  <DaysPast>0</DaysPast>
+  <GameVersion>0.2.4210.19710</GameVersion>
+  <DateTime>133341887597053375</DateTime>
+  <DaysPast>93</DaysPast>
   <WorldName>Europa2</WorldName>
   <IsOnAwayMission>false</IsOnAwayMission>
   <WorldTravelCount>0</WorldTravelCount>
-  <WorldFileName>Europa-Geballion</WorldFileName>
+  <WorldFileName>Europa_GPT New</WorldFileName>
   <WorkShopFileHandle>0</WorkShopFileHandle>
-  <NumberOfRooms>0</NumberOfRooms>
-  <NumberOfPipeNetworks>0</NumberOfPipeNetworks>
-  <NumberOfCableNetworks>0</NumberOfCableNetworks>
-  <NumberOfThings>120</NumberOfThings>
-  <NumberOfAtmospheres>14</NumberOfAtmospheres>
+  <NumberOfRooms>21</NumberOfRooms>
+  <NumberOfPipeNetworks>55</NumberOfPipeNetworks>
+  <NumberOfCableNetworks>22</NumberOfCableNetworks>
+  <NumberOfThings>5643</NumberOfThings>
+  <NumberOfAtmospheres>425</NumberOfAtmospheres>
   <NumberOfAsteriods>0</NumberOfAsteriods>
 </WorldMetaData>
